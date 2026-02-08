@@ -18,6 +18,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - High-level timeline and key milestones
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
+- Identify need for specialized roles (QA Lead, UX/UI Designer, Release Manager, Support Engineer)
 
 ## Project One-pager Template
 - Project name:
@@ -28,6 +29,14 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
 - Proposed team / roles:
+  - Product Manager
+  - Project Manager
+  - Developers (number and specialization)
+  - QA Lead (if quality strategy is complex)
+  - UX/UI Designer (if user-facing features)
+  - Release Manager (if deployment is complex)
+  - Support Engineer (for production support)
+  - Other specialized roles as needed
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
