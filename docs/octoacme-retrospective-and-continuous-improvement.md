@@ -5,6 +5,9 @@ Capture learnings and convert them into actionable improvements.
 
 ## When
 After each sprint, release, or important milestone. Also after incidents.
+- Sprint retrospectives led by Project Manager
+- Release retrospectives led by Release Manager
+- Incident post-mortems coordinated by Support Engineer or Release Manager
 
 ## Structure
 - What went well
@@ -31,3 +34,5 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Continuous Improvement Culture
 - Measure impact of action items
 - Celebrate improvements and make small, iterative changes
+- Ensure cross-role participation (QA Lead, Release Manager, Support Engineer, etc.) to capture diverse perspectives
+- Share learnings across teams and update process documentation as needed
